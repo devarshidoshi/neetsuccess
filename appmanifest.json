@@ -1,0 +1,47 @@
+{
+    "short_name": "Neet Success Tips",
+    "name": "Neet Success Tips",
+    "icons": [
+      {
+        "src": "./icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose":"maskable"
+      },
+      {
+        "src": "./icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose":"maskable"
+      },
+      
+      {
+        "src": "./icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose":"maskable"
+      }
+    ],
+    "shortcuts": [
+      {
+        "name": "Neet Success Tips",
+        "short_name": "Neet Success Tips",
+        "description": "Main Content",
+        "url": "https://www.youtube.com/@neetsuccesstips",
+        "icons": [{"src": "./icons/icon-96x96.png", "sizes": "96x96"}]
+      }
+    ],
+    "start_url": "https://www.youtube.com/@neetsuccesstips",
+    "background_color": "#000",
+    "display": "fullscreen",
+    "scope": "./",
+    "theme_color": "black",
+    "description": "Welcome to Neet Success Tips, your ultimate destination for all things NEET! Our channel is dedicated to providing students with high-quality coaching and resources to help them prepare for the National Eligibility cum Entrance Test (NEET). From detailed explanations of difficult concepts to learn easy tips and easy memory techniques for cracking the exam, our team of experienced NEET educators will be there every step of the way to guide you for each subject physics , chemistry, biology(botony and zoology) and each topic in that subjects.. Subscribe to stay up to date for the latest videos for all subject topics covered in intermediate NCERT books. Let's ace NEET together!",
+    "orientation": "portrait-primary"
+    
+  }
