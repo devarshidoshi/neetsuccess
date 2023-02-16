@@ -27,10 +27,10 @@
         "purpose":"maskable"
       }
     ],
-    "start_url": "/index.html",
+    "start_url": "./index.html",
     "background_color": "#000",
     "display": "fullscreen",
-    "scope":"/",
+    "scope":"./",
     "theme_color": "black",
     "description": "Welcome to Neet Success Tips",
     "orientation": "portrait-primary"
