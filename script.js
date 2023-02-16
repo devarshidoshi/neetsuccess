@@ -6,10 +6,6 @@ bar.addEventListener("click", () => {navLinks.classList.toggle("open");
       link.classList.toggle("fade");
     });
   });
-function gotowapi(nummer)
-    {
-    window.location = 'https://api.whatsapp.com/send?phone=91' + nummer;
-    return false;}
 
     window.addEventListener("load", () => {
       if ("serviceWorker" in navigator) {

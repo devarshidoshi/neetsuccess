@@ -27,19 +27,10 @@
         "purpose":"maskable"
       }
     ],
-    "shortcuts": [
-      {
-        "name": "Neet Success Tips",
-        "short_name": "Neet Success Tips",
-        "description": "Main Content",
-        "url": "youtube.com/@neetsuccesstips",
-        "icons": [{"src": "./icons/icon-96x96.png", "sizes": "96x96"}]
-      }
-    ],
-    "start_url": "youtube.com/@neetsuccesstips",
+    "start_url": "/index.html",
     "background_color": "#000",
     "display": "fullscreen",
-    "scope": "./",
+    "scope":"/",
     "theme_color": "black",
     "description": "Welcome to Neet Success Tips",
     "orientation": "portrait-primary"
